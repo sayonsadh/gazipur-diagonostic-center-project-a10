@@ -1,4 +1,4 @@
-
+## I have fatch a problem to push code github on my pc. So i push file on github to another pc ##
 
 # Gazipur diagonostic center
 
@@ -29,4 +29,4 @@ We have six branch inside Dhaka. Contact your nearby branch.
 
 We start our journey from 1998. We serve human. Our vission is healthy world.
 
-## I have fatch a problem to push code github on my pc. So i push file on github to another pc ##
+
