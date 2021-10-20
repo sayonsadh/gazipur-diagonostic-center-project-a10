@@ -1,3 +1,5 @@
+
+
 # Gazipur diagonostic center
 
 This project live link is [Gazipur Diagnostic Center](https://gazipur-medical.web.app/).
@@ -26,3 +28,5 @@ We have six branch inside Dhaka. Contact your nearby branch.
 ### About us
 
 We start our journey from 1998. We serve human. Our vission is healthy world.
+
+## I have fatch a problem to push code github on my pc. So i push file on github to another pc ##
