@@ -1,0 +1,32 @@
+[
+    { 
+       "id": 1,
+       "name": "Dhanmondi",
+       "image": "https://image.freepik.com/free-vector/city-hospital-building_74855-6301.jpg"
+    },
+    {
+      "id": 2,
+       "name": "Gulshan",
+       "image": "https://image.freepik.com/free-vector/flat-hospital-building-illustration_1344-105.jpg"
+    },
+    {
+      "id": 3,
+       "name": " Mohammadpur",
+       "image": "https://image.freepik.com/free-vector/hospital-clinic-building-with-ambulance-car-truck_107791-2645.jpg"
+    },
+    {
+      "id": 4,
+       "name": "Mirpur",
+       "image": "https://image.freepik.com/free-photo/large-modern-office-building_1127-3072.jpg"
+    },
+    {
+      "id": 5,
+       "name": "Chittagong",
+       "image": "https://image.freepik.com/free-vector/horizontal-scene-with-hospital-building-outdoor-scene_1308-65039.jpg"
+    },
+    {
+      "id": 6,
+       "name": "Barisal",
+       "image": "https://image.freepik.com/free-vector/cityscape-with-hospital-building-ambulance-car_107791-2694.jpg"
+    }
+ ]

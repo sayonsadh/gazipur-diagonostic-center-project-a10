@@ -1,0 +1,65 @@
+[
+   {
+      "id": 1,
+      "Name": "X-RAY",
+      "price": 2200,
+      "Description": "X-rays are a type of radiation called electromagnetic waves. X-ray imaging creates pictures of the inside of your body. X-ray imaging creates picture",
+      "image": "https://image.freepik.com/free-vector/medical-background-design_1212-382.jpg"
+   },
+   {
+      "id": 2,
+      "Name": "CT SCAN",
+      "price": 2400,
+      "Description": "CT scanners use a rotating X-ray tube and a row of detectors placed in the gantry to measure X-ray attenuations by different tissues inside the body. ",
+      "image": "https://image.freepik.com/free-vector/computer-tomography-ct-magnetic-resonance-imaging-mri-patient-scanning-concept_33099-128.jpg"
+   },
+   {
+      "id": 3,
+      "Name": "MRI",
+      "price": 4500,
+      "Description": "MRI is widely used in hospitals and clinics for medical diagnosis, staging and follow-up of disease. Compared to CT, MRI provides better contrast in images of soft-tissues, .",
+      "image": "https://image.freepik.com/free-vector/mri-scanner-with-patient-doctor-web-banner_107791-2305.jpg"
+   },
+   {
+      "id": 4,
+      "Name": "Ultrasound",
+      "price": 3800,
+      "Description": "Ultrasound is used in many different fields. Ultrasonic devices are used to detect objects and measure distances.",
+      "image": "https://image.freepik.com/free-photo/man-getting-ultrasound-abdomen-from-doctor_1170-2280.jpg"
+   },
+   {
+      "id": 5,
+      "Name": "Blood Function",
+      "price": 200,
+      "Description": "A blood test is a laboratory analysis performed on a blood sample that is usually extracted from a vein in the arm using a hypodermic needle",
+      "image": "https://image.freepik.com/free-photo/hand-with-protective-gloves-holding-blood-samples-covid-test_23-2148958363.jpg"
+   },
+   {
+      "id": 6,
+      "Name": "Kidney Function",
+      "price": 5200,
+      "Description": " The kidneys excrete a variety of waste products produced by metabolism into the urine.",
+      "image": "https://image.freepik.com/free-vector/informative-illustration-kidney-stones_1308-47247.jpg"
+   },
+   {
+      "id": 7,
+      "Name": "Liver Function",
+      "price": 7200,
+      "Description": "The liver is an accessory digestive organ that produces bile, an alkaline fluid containing cholesterol and bile acids.",
+      "image": "https://image.freepik.com/free-vector/human-internal-organs-anatomy-cartoon-vector-style-brain-kidney-liver-lung-stomach-heart-illustration_1284-42440.jpg"
+   },
+   {
+      "id": 8,
+      "Name": "Thyroid Hormone",
+      "price": 6500,
+      "Description": "Thyroid hormones are two hormones produced and released by the thyroid gland, namely (T3) and thyroxine (T4).",
+      "image": "https://image.flaticon.com/icons/png/512/349/349420.png"
+   },
+   {
+      "id": 9,
+      "Name": "Urine",
+      "price": 1700,
+      "Description": "Urine is a liquid by-product of metabolism in humans and in many other animals. Urine flows from the kidneys through the ureters to the urinary bladder.",
+      "image": "https://image.freepik.com/free-photo/close-up-male-s-hand-holding-container-with-urine-sample_171337-1523.jpg"
+   }
+]
